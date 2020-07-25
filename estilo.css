@@ -1,0 +1,61 @@
+body{
+    background-image: url(Imagens/Img-mar.webp);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+#Titulo{
+    margin-top: 5%;
+    margin-left: 35%;
+    margin-right: 30%;
+    font-size: 30;
+    color: white;
+}
+#logo{
+    margin-left: -8;
+    margin-top: -8;
+}
+#imagem{
+    height: 100px;
+    width: 100px;
+}
+#img{
+    margin-left: 75%;
+    margin-top: 25%;
+    width: 10px;
+    height: 10px;
+}
+#p1{
+    font-size: 30;
+    font-family: 'Times New Roman', Times, serif;
+    border-style: solid;
+    border-color: white;
+    width: 30%;
+    height: 30%;
+    margin-top: 15%;
+    margin-left: -8;
+}
+#p2{
+    font-size: 30;
+    font-family: 'Times New Roman', Times, serif;
+    border-style: solid;
+    border-color: white;
+    width: 30%;
+    height: 30%;
+    margin-top: -15.43%;
+    margin-left: 35%;
+}
+#p3{
+    font-size: 30;
+    font-family: 'Times New Roman', Times, serif;
+    border-style: solid;
+    border-color: white;
+    width: 30%;
+    height: 30%;
+    margin-top: -15.5%;
+    margin-left: 70%
+}
+a{
+    font-size: 60px;
+    color: white;
+    
+}
