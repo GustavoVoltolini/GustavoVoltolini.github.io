@@ -1,0 +1,117 @@
+body{
+    margin: 0px;
+}
+
+header{
+    z-index: 10;
+    position: fixed;
+    width: 100%;
+}
+
+#cabeçalho{
+    background-color: rgb(0, 0, 0);
+    height: 78px;
+}
+#logo{
+    height: 100%;
+    width: 7%;
+    margin-left: 3%;
+      
+}
+#Menu{
+    float: right;
+    color: white;
+    margin-right: 4%;
+    padding: 0;
+    margin-top: 0px;
+    text-decoration: none   
+}
+li{
+    float: left;
+    list-style: none;
+    padding: 30 30 30 30; 
+}
+li:hover{
+    background-color: orange;
+}
+#Tela-Inicial{
+    background: url("IMG/Img-mar.webp");
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    background-repeat: no-repeat;
+}
+#titulo{
+    color: white;
+    font-size: 50px;
+    padding-top: 20%;
+}
+#Sub-Titulo{
+    color: white;
+    font-size: 30px;
+    padding-right: 20%;
+    padding-left: 20%;
+}
+#Video{
+    padding: 8% 25% 15% 30%;
+    background-color: rgb(250, 232, 198);
+    width: 100%;
+    height: 46%;
+
+}
+h1{
+    text-align: center;
+    font-size: 40;
+}
+#txt-Projeto{
+    font-size: 20;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+#poluição{
+    text-align: center;
+    margin-top: 20%;
+}
+#txt-Poluição{
+    float: left;
+    margin-right: 20%;
+    margin-left: 20%;
+    font-size: 20;
+}
+#obj{
+    font-size: 20;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+#Sobre-Mim{
+    padding-top: 5%;
+}
+#Apresentação{
+    font-size: 20;
+    margin-left: 20%;
+    margin-right: 20%;
+
+}
+#foto{
+    width: 25%;
+    height: 40%;
+    margin-left: 37%;
+    margin-right: 20%;
+}
+#Sobre{
+    background-color: whitesmoke;
+}
+#ação1{
+    text-decoration: none;
+    color: white;
+    font-size: 15;
+}
+#ação2{
+    text-decoration: none;
+    color: white;
+}
+#ação3{
+    text-decoration: none;
+    color: white;
+}
